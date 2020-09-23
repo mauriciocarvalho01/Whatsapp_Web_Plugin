@@ -1,0 +1,11 @@
+
+.changeTimeButton{
+    color: grey;
+    padding: 1px;
+    margin: 2px;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: ragba(52, 183, 241, 0.8);
+    border: 1px solid #25D366;
+    border-radius: 10%;
+}
